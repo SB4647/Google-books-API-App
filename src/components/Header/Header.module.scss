@@ -1,0 +1,14 @@
+﻿@import "../../variables.scss";
+
+* {
+  margin: 0;
+}
+
+.contents {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: $secondary-color;
+  padding: 10px 0px;
+  height: 100px;
+}
