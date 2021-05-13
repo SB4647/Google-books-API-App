@@ -1,3 +1,11 @@
+# Google Books API React App
+
+### _nology Challenge 
+
+Specifications:
+  - Uses the The Google Books API (https://developers.google.com/books/docs/v1/using) to get information on certain types of books.
+  - Uses a searchbar to search for a specific book based on its Title. All search result information will be displayed below the searchbar.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
